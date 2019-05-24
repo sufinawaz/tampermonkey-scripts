@@ -2,7 +2,7 @@
 // @name         Add Gerrit Buttons
 // @namespace    http://sufi.io
 // @version      1.0.0
-// @description  Temper monkey script for adding gerrit buttons forked from https://github.com/johnwun/tampermonkies/blob/master/Add%20demo%20button.user.js
+// @description  Tampermonkey script for adding gerrit buttons forked from https://github.com/johnwun/tampermonkies/blob/master/Add%20demo%20button.user.js
 // @author       John Wundes, Sufi Nawaz
 // @include https://gerrit.nexgen.neustar.biz/*
 // @grant        none
